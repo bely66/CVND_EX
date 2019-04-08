@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# mate rov competition (computer vision code)
-||||||| merged common ancestors
-=======
+
 # COMPUTER VISION PROJECTS
 this repo is mainly for computer vision based projects from udacity **CV nano degree** course and my company CV projects 
 
